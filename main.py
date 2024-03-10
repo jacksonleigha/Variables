@@ -6,3 +6,6 @@ print(wallet)
 
 day = 30
 print(day)
+
+month = "march"
+print(month)
